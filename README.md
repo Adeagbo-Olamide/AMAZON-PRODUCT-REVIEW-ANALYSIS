@@ -1,4 +1,4 @@
-# DSA-CAPSTONE-PROJECT-KMS-
+# DSA-CAPSTONE-PROJECT 
 
 ### Project Title: AMAZON PRODUCT REVIEW ANALYSIS
 ### Project overview: TO analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
