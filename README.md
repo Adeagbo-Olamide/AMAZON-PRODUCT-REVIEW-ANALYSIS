@@ -35,7 +35,7 @@ I analyzed these below using Pivot tables and calculated columns where neccessar
 See the Visualization Folder for Screnshots of Pivot Tables and charts
 
 ### KEY INSIGHTS
--From the sales category Electronics Screenprotector had the highest average rating  of 4.47
+1.From the sales category Electronics Screenprotector had the highest average rating  of 4.47
 2.From the sales category Home and kitchen airfryers had the highest average rating of 4.46
 3.From the computer and accessories accessories category DVI cable and Ethernet had the highest average rating of 4.4
 4.From the Office product catergory Notebook, writing Pads and Diaries had the highest average rating of 4.35
@@ -44,12 +44,12 @@ See the Visualization Folder for Screnshots of Pivot Tables and charts
 for the highest rating counts of products that were rated followed this order ( from highest to lowest)
 Cables, Inears,smart phones, micro SD and chargers
 
-Also in relation to the discount on each category the to 5 highest discount are as follows:  
--Home improvement- 57%
--computer and accessories- 53% 
--Health and personal care- 53%
--Electronics- 50%
--Muscical instruments- 46%
+Also in relation to the discount on each category the to 5 highest discount are as follows 
+- Home improvement- 57%
+- computer and accessories- 53% 
+- Health and personal care- 53%
+- Electronics- 50%
+- Muscical instruments- 46%
 
 Comparing the rating with the discount it shows that when the discount was higher the RATING was also higher.
 
