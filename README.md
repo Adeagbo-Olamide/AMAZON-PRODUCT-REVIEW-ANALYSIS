@@ -41,7 +41,7 @@ See the Visualization Folder for Screnshots of Pivot Tables and charts
 4.From the Office product catergory Notebook, writing Pads and Diaries had the highest average rating of 4.35
 5.From the health and Personal care category Digital bathroom scale had the highest average rating of 4
 
-for the highest rating counts of products that were rated followed this order ( from highest to lowest)
+for the highest rating counts(Number of reviews) of products that were rated followed this order ( from highest to lowest)
 Cables, Inears,smart phones, micro SD and chargers
 
 Also in relation to the discount on each category the to 5 highest discount are as follows 
@@ -51,7 +51,7 @@ Also in relation to the discount on each category the to 5 highest discount are 
 - Electronics- 50%
 - Muscical instruments- 46%
 
-Comparing the rating with the discount it shows that when the discount was higher the RATING was also higher.
+Comparing the rating with the discount it shows that the discount did not not affect the rating because when the discount fell within 0-10% the average discount was 4.2, when the average disount fell within the range off 11-20% the average rating was 4.1, 11-20%, the average discount was 4.0, this follows a downward trends as shown in the visualizaton file.
 
 Also airfryers had the total potential revenue among all the products and also had the highest rating in its category it means that the buyers on Amazon are satisfied with this product and are willing to pay for it.
 
