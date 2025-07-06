@@ -1,13 +1,13 @@
 # DSA-CAPSTONE-PROJECT 
 
 ### Project Title: AMAZON PRODUCT REVIEW ANALYSIS
-### Project overview: TO analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
+### Project overview: This project involves analysing amazon sales data to generate insights for the sellers on AMAZON so as to guide product improvement, marketing strategies, and customer engagement. The analysis was conducted using Excel pivot tables, formulars and charts for visualization.
 
 #### Data used
 An open source file on AMAZON 
-### Tools used
--Excel for Data cleaning,analysis AND visualization
--
+### Tools and Techniques used
+-Excel for Data cleaning, Pivot tables, Excel functions,Charts
+
 
 ### Data Cleaning and Preparation
 The Data was checked for Duplicates, missing values and errors to ensure it was fit for use.
@@ -28,11 +28,16 @@ I analyzed these below using Pivot tables and calculated columns where neccessar
 ₹200–₹500, >₹500)?
 12. How does the rating relate to the level of discount? 
 13. How many products have fewer than 1,000 reviews?
-14. 15. Which categories have products with the highest discounts? 
+14.  Which categories have products with the highest discounts?
+15.  dentify the top 5 products in terms of rating and number of reviews combined.
 
-### Note: The analysis and visualization of up above has been documented and uploaded, the file name is DSA AMAZON CASE STUDY
+### VISUALIZATION
+See the Visualization Folder for Screnshots of Pivot Tables and charts
 
-16. Identify the top 5 products in terms of rating and number of reviews combined.
+### KEY INSIGHTS
+From all the product the sellers on the Amazon sold Screenprotector under the Electronic has category highest rating
+
+
 
 
 
