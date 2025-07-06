@@ -45,11 +45,11 @@ for the highest rating counts of products that were rated followed this order ( 
 Cables, Inears,smart phones, micro SD and chargers
 
 Also in relation to the discount on each category the to 5 highest discount are as follows:  
-Home improvement- 57%
-computer and accessories- 53% 
-Health and personal care- 53%
-Electronics- 50%
-Muscical instruments- 46%
+-Home improvement- 57%
+-computer and accessories- 53% 
+-Health and personal care- 53%
+-Electronics- 50%
+-Muscical instruments- 46%
 
 Comparing the rating with the discount it shows that when the discount was higher the RATING was also higher.
 
